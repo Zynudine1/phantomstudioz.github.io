@@ -1,0 +1,7 @@
+format: jb-book
+root: index
+chapters:
+  - file: about
+  - file: wigs
+  - file: services
+  - file: contact
